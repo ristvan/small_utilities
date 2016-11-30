@@ -1,0 +1,8 @@
+NAME:PMTT 23
+DATE:2012-01-21
+START:Nagykovacsi, Plebania:9:40
+CHECKPOINT:Nagy-Kopasz (Cserzengan kilato):6640:310:1:12:0
+CHECKPOINT:Anna-vadaszhaz:13270:460:2:18:0
+CHECKPOINT:S es K+ elagazas:17490:570:3:00:0
+CHECKPOINT:Nagykovacsi szele (Tajekoztato tabla):21200:705:3:40:0
+FINISH:Nagykovacsi, Plebania:23000:710:4:00

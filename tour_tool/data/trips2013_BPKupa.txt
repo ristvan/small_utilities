@@ -1,0 +1,50 @@
+C:BUEK 20:2013-01-05:19512:847
+P:A Budai-hegyseg tavoli csucsai (BHTCS):2013-01-05:35000:1100
+C:Teli Gyermekvasut 20:2013-01-13:19200:580
+C:Teli Turul Turak - Kerecsen 20(Budai-hg., Zsambeki-medence):2013-01-19:22600:658
+P:PMTT a Budai-hegysegben - Nagykovacsi NagyNyolcas 24:2013-01-27:24000:730
+P:Teli Teljesitmenytura 24km (Tok - Budakeszi):2013-02-09:24000:0
+P:Kitores 60:2013-02-09-10:58650:1810
+P:Zold 45 (Fekete Istvan emlektura):2013-02-16:43310:1605
+P:Budai Trapp:2013-02-23:30000:1100
+P:Normafa 20/10:2013-03-02:19200:680
+P:Pilis barlangjai 60 (Budai-hegyseg, Pilis, Visegradi-hegyseg):2013-03-02:62800:2401
+P:A Gyermekvasut nyomaban:2013-03-15:21700:750
+P:Obudai Kortura 35:2013-03-24:34500:700
+P:TOJAS 40:2013-04-01:38925:1350
+P:Tery Odon emlektura 50:2013-04-06:48800:1360
+P:Budaorsi Koparok 20:2013-04-07:18800:680
+P:Himbi-Limbi a Libego alatt:2013-04-07:15600:820
+P:Jozsef Attila teljesitmenytura A Varos Peremen:2013-04-13:25000:1050
+P:Fogasgyermekvasut 30:2013-04-14:26200:880
+P:Gyertek ki a Vadasparkba!:2013-04-21:15900:481
+P:Buda Bercein 50:2013-04-27:49000:1810
+P:Sárga 70:2013-04-30:70900:2240
+P:Halmi-dulo:2013-05-05:12400:50
+P:Budai 50:2013-05-11:49200:1640
+P:Fekete-hegyek 40/Zugliget 25:2013-05-18:39400:1510
+P:KTF - Kamaraerdo es a Tetenyi-fennsik 20:2013-05-19:0:0
+P:Budaorsi Dolomitok 20:2013-05-25:21200:870
+P:Tour de Bekas gyalogos teljesitmenytura 11:2013-05-26:11000:260
+P:Hatarjaras 45:2013-06-01:45000:1120
+P:Barangolo Hegyvidek:2013-06-02:12900:435
+P:Buda Barlangjai 30/15:2013-06-02:0:0
+P:Turul turak - Arpad Vezer 130:2013-06-08:126600:3050
+P:Buda Hataran 50:2013-06-23:49930:1590
+P:Budai Tajakon 30:2013-07-27:32300:910
+P:A Gyermekvasut nyomaban (ejszakai):2013-08-19:19800:890
+P:Turista Kekszalag Maxi:2013-09-07:0:0
+P:Tunder 28:2013-09-08:27900:1120
+P:Meteor 50:2013-09-14:51200:1370
+P:Zsiros Deszka 30:2013-09-21:0:0
+P:HASE 20 - katonasirok:2013-09-22:16000:680
+P:Ejszakai zorejek 23/16/10:2013-09-27:23200:1025
+P:Obudai teljesitmenytura 25:2013-09-28:25000:1100
+P:Budai borvidek (30km, Zsambek - Paty):2013-09-29:0:0
+P:Palos 70 teljesitmenytura es zarandoklat 70:2013-10-05:74000:2300
+P:Cartographia - Budai Kilatok Extra:2013-10-12:29000:1000
+P:Monoton Maraton:2013-11-01:23100:1085
+P:Piros 85:2013-11-02:88660:3205
+P:Gercse 35:2013-11-09:33100:985
+P:Hegedus Robert emlektura:2013-11-16:26960:1143
+P:Var a Mikulas 20:2013-12-01:21000:780
